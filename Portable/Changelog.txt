@@ -1,0 +1,18 @@
+NoVirusThanks Registry DeleteEx
+http://www.novirusthanks.org/
+
+Changelog:
+
+[05 March 2018] v1.1.0.0
+
++ Both 32-bit and 64-bit drivers are now co-signed by Microsoft
++ Executable files are digitally signed with both SHA1 and SHA256 code sign
++ Now the program works fine when Secure Boot is enabled
++ Fixed display of main window on multi-monitors
++ Minor fixes and improvements
+
+
+[13 March 2016] v1.0.0.0
+
++ Initial release
+
